@@ -1,5 +1,7 @@
 <img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
+
+# My IQ IS SO HIGH I CAN COUNT THEM ON MY TOE
 # Project Summary
 
 Practice using git + Github
